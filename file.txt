@@ -4,3 +4,4 @@ hello
 
 This line creates feature1
 This line creates feature 2
+This line also creates feature 2
