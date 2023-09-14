@@ -3,3 +3,4 @@ This line is also written in main branch
 hello
 
 This line creates feature1
+This line creates feature 2
